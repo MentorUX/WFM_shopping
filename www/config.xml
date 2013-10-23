@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Charitab.ly</name>
+    <name>WFM Shopping</name>
 
     <description>
-        Charitab.ly is a sample application that responds to the deviceready event.
+        WFM shopping list app created in Axure and processed through phonegap to create iOS hybrid-app.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
